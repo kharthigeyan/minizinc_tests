@@ -17,5 +17,5 @@ solve minimize x1*x4*(x1+x2+x3)+x3;
 % x3=3.82115462
 % x4=1.37940765
 
-% Problem this code is running forever and not returning an optimal solution.
-% Solved the problem using "Gecode 6.1.0" solver
+% Problem: this code is running forever and not returning an optimal solution.
+% Tried to solve the problem using "Gecode 6.1.0" solver
